@@ -1,2 +1,2 @@
-# CustomCollisionDetectionForUnity
-Custom 3D CollisioncDetection Axis-Aligned Bounding-Box(AABB) In Unity.
+# Custom collision detection for unity
+Custom 3D collisionc detection axis-aligned bounding-box(AABB) in unity.
