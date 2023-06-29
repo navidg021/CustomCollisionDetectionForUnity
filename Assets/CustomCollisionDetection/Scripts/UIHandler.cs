@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using navid021.CustomCollisionDetection;
 
 public class UIHandler : MonoBehaviour
 {

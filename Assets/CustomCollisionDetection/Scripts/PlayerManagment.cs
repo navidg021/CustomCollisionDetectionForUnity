@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using System.Collections;
-using navid021.CustomCollisionDetection;
 
 public class PlayerManagment : MonoBehaviour
 {

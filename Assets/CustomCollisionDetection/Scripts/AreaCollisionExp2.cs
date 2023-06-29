@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System;
-using navid021.CustomCollisionDetection;
+using CustomCollisionDetection;
 
-public class AreaCollisionExp2 : AbstractAreaManager
+public class AreaCollisionExp2 : AreaManager
 {
     protected override void OnOverlap(Action<object> action)
     {

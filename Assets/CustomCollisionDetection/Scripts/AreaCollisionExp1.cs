@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System;
-using navid021.CustomCollisionDetection;
+using CustomCollisionDetection;
 
-public class AreaCollisionExp1 : AbstractAreaManager
+public class AreaCollisionExp1 : AreaManager
 {
     [Header("New Other")]
     public int numberInt = 1;
